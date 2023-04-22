@@ -5,22 +5,7 @@ import numpy as np
 import PIL
 import pandas as pd
 
-import sys
-import tensorflow as tf
 
-# Print Python version
-print("Python version")
-print(sys.version)
-print("")
-
-# Print TensorFlow version
-print("TensorFlow version")
-print(tf.__version__)
- 
-## Page Title
-st.set_page_config(page_title = "Food Classification")
-st.title("FOOD CLASSIFICATION")
-st.markdown("------")
 
 
 model_path="foodc.tflite"
