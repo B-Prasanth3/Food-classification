@@ -1,4 +1,5 @@
 numpy==1.24.2
+tensorflow==2.10.0
 opencv-python==4.7.0.72
 easyocr==1.4.1
 matplotlib==3.4.3
@@ -11,6 +12,5 @@ scikit-image==0.18.3
 seaborn==0.11.2
 streamlit==1.0.0
 imutils==0.5.4
-tensorflow==2.9.2
 pickle5
 scikit-learn
