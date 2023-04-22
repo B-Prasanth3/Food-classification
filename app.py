@@ -143,6 +143,6 @@ if uploaded_file is not None:
         interpreter, 
         threshold=DETECTION_THRESHOLD
     )
-
+    
     # Show the detection result
     st.image(detection_result_image)
